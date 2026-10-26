@@ -8,6 +8,8 @@ resistance, setting the frequency of the square wave that drives a piezo buzzer.
 
 [View the schematic (PDF)](PCB%20Design.pdf)
 
+[Front copper (PDF)](PCB%20Design-F_Cu.pdf) · [Back copper (PDF)](PCB%20Design-B_Cu.pdf) · [Board outline (PDF)](PCB%20Design-Edge_Cuts.pdf)
+
 Instead of giving each key its own resistor, R2 through R6 form a single series
 ladder, and each key taps a different point on it. Each note's R_B is the
 running sum of the resistors above its tap:
