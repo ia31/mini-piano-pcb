@@ -1,0 +1,10 @@
+(sym_lib_table
+	(version 7)
+	(lib
+		(name "ELEC 240")
+		(type "KiCad")
+		(uri "${KIPRJMOD}/Libraries/ELEC240.kicad_sym")
+		(options "")
+		(descr "")
+	)
+)
